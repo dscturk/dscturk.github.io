@@ -13,7 +13,7 @@ minima:
   # generate social links in footer
   social_links:
     instagram: dscturk
-    github:  dscturk
+    github: dscturk
     # rss: rss
     # twitter: jekyllrb
     # devto: jekyll
