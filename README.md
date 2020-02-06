@@ -1,2 +1,0 @@
-# DSC TURK
-DSC Turk
